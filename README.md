@@ -1,15 +1,12 @@
-
 # Trabalho utilizando Python
 
-Condicinais
-Loop
-Tuplas
-Strings
-
-Descrição breve sobre o que o projeto faz e seu objetivo.
+-Condicinais
+-Loop
+-Tuplas
+-Strings
 
 
-#### Etapas:
+## Etapas:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
